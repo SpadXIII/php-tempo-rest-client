@@ -1,5 +1,5 @@
 {
-    "name": "takeoo/php-tempo-rest-client",
+    "name": "smartilabs/php-tempo-rest-client",
     "description": "TEMPO Jira time tracking software REST API client for PHP users",
     "type": "library",
     "keywords": [
